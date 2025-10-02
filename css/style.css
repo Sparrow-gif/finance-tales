@@ -8,6 +8,10 @@ body {
   border: none;
 }
 
+.progress-bar {
+  transition: width 0.3s;
+}
+
 .card img {
   height: 200px;
   object-fit: cover;
