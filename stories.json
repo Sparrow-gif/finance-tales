@@ -19,6 +19,38 @@
           "summary": "Reena ke gullak se usne financial discipline seekha.",
           "content": "Reena ne har din apne gullak me ₹10 daala. Ek saal ke baad uske paas ₹3650 ho gaye. Usne samjha ki chhoti chhoti bachat ek din badi hoti hai.",
           "lesson": "Har chhoti bachat kaafi hoti hai jab woh regular ho."
+        },
+        {
+          "id": "sonu-credit-card-trap",
+          "title": "Sonu aur Credit Card ka Jaadu",
+          "image": "https://picsum.photos/seed/sonu/600/400",
+          "summary": "Sonu ne credit card ka misuse kiya aur karz me phas gaya.",
+          "content": "Sonu har shopping credit card se karta tha aur minimum payment karta tha. Dheere-dheere interest itna badh gaya ki uska ₹20,000 ka bill ₹50,000 ban gaya. Tab usne seekha ki credit card ka use smart hona chahiye, free money samajhkar nahi.",
+          "lesson": "Credit card suvidha hai, free paisa nahi."
+        },
+        {
+          "id": "priya-emergency-fund",
+          "title": "Priya ka Emergency Fund",
+          "image": "https://picsum.photos/seed/priya/600/400",
+          "summary": "Priya ne emergency ke liye paisa bachakar mushkil waqt sambhala.",
+          "content": "Priya ne har mahine apni salary ka 5% ek alag account me daala. Jab uske ghar me medical emergency aayi, uske paas ₹60,000 ready the. Usne samjha ki emergency fund life ka safety net hai.",
+          "lesson": "Emergency fund banaana zaroori hai har ek ke liye."
+        },
+        {
+          "id": "arjun-daily-expense-diary",
+          "title": "Arjun ki Expense Diary",
+          "image": "https://picsum.photos/seed/arjun/600/400",
+          "summary": "Arjun ne kharche likhne ka habit banaya aur apna budget sudhaara.",
+          "content": "Arjun har chhoti badi kharidari likhta tha – chai, bus ticket, shopping sab. Ek mahine baad usko samjha ki unnecessary kharche ₹3000 ke the. Unhe cut karke usne same paise bachat me daal diye.",
+          "lesson": "Apne kharche likhna paise bachane ka pehla step hai."
+        },
+        {
+          "id": "kiran-loan-lessons",
+          "title": "Kiran ki Loan Wali Galti",
+          "image": "https://picsum.photos/seed/kiran/600/400",
+          "summary": "Kiran ne unnecessary loan liya aur uska effect samjha.",
+          "content": "Kiran ne bike ke liye loan liya, jabki woh cash me afford kar sakta tha. Har mahine EMI dekar usko realise hua ki loan lena easy hai par repay karna heavy hota hai. Usne seekha ki zaroori ho tabhi loan lena chahiye.",
+          "lesson": "Loan luxury ke liye nahi, necessity ke liye lena chahiye."
         }
       ]
     },
@@ -33,6 +65,98 @@
           "summary": "Amit ne SIP me invest karke compounding ka jadoo dekha.",
           "content": "Amit ne har mahine ₹2000 SIP me lagaya. 20 saal ke baad uske paise compound hoke 15 lakh se zyada ban gaye. Usne samjha ki compounding ko '8th wonder of the world' kyun kehte hain.",
           "lesson": "Jitni jaldi investment shuru, utna zyada faayda."
+        },
+        {
+          "id": "sneha-gold-vs-fd",
+          "title": "Sneha ki Gold vs FD Soch",
+          "image": "https://picsum.photos/seed/sneha/600/400",
+          "summary": "Sneha ne gold aur FD ke returns compare kiye.",
+          "content": "Sneha ne 5 saal pehle ₹1 lakh FD aur ₹1 lakh gold me invest kiya. FD se usko ₹1.3 lakh mile aur gold ki value ₹1.6 lakh ho gayi. Usne samjha ki har asset class ka alag return hota hai.",
+          "lesson": "Diversification hi safe investing ka mantra hai."
+        },
+        {
+          "id": "rohit-stock-market",
+          "title": "Rohit aur Stock Market ka Safar",
+          "image": "https://picsum.photos/seed/rohit/600/400",
+          "summary": "Rohit ne stock tips par paisa lagakar nuksan uthaya.",
+          "content": "Rohit ne doston ke kehne par bina research kiye stocks kharide. Do mahine me hi usko ₹20,000 ka nuksan hua. Tab usne seekha ki stock market gamble nahi, research aur patience ka game hai.",
+          "lesson": "Stock market me bina research paisa lagana risk hai."
+        },
+        {
+          "id": "meena-mutual-funds",
+          "title": "Meena aur Mutual Funds",
+          "image": "https://picsum.photos/seed/meena/600/400",
+          "summary": "Meena ne SIP ke through apna wealth create kiya.",
+          "content": "Meena ne sirf ₹1000 per month mutual funds me invest karna shuru kiya. 10 saal baad uske ₹1.2 lakh ka investment ₹2.5 lakh ban gaya. Usne samjha ki discipline aur patience hi real returns dete hain.",
+          "lesson": "Chhoti SIP bhi badi wealth bana sakti hai."
+        },
+        {
+          "id": "vikas-real-estate",
+          "title": "Vikas aur Real Estate ka Sapna",
+          "image": "https://picsum.photos/seed/vikas/600/400",
+          "summary": "Vikas ne property me invest karke apna dream pura kiya.",
+          "content": "Vikas ne 2010 me ek plot kharida ₹5 lakh me. 2020 me uski value ₹20 lakh ho gayi. Usne realise kiya ki real estate long term ka game hai jisme patience sabse badi cheez hai.",
+          "lesson": "Real estate me investment lambi race ka ghoda hota hai."
+        }
+      ]
+    },
+    {
+      "id": "smart-spending",
+      "title": "Smart Spending",
+      "stories": [
+        {
+          "id": "neha-coupons",
+          "title": "Neha aur Online Coupons",
+          "image": "https://picsum.photos/seed/neha/600/400",
+          "summary": "Neha ne coupons use karke shopping me bachat ki.",
+          "content": "Neha jab bhi online shopping karti, discount coupons search karti. Har order pe 10-20% bachat hoti. Ek saal me usne lagbhag ₹12,000 bacha liye. Usne samjha ki smart shopping bhi ek financial skill hai.",
+          "lesson": "Thoda research karke har kharche me bachat possible hai."
+        },
+        {
+          "id": "manish-second-hand",
+          "title": "Manish aur Second-Hand Gadgets",
+          "image": "https://picsum.photos/seed/manish/600/400",
+          "summary": "Manish ne pre-owned gadgets le kar paisa bachaya.",
+          "content": "Manish ko naya laptop chahiye tha, par usne certified refurbished kharida. Usne ₹20,000 bacha liye aur performance same hi mila. Usne seekha ki har baar naya lena zaroori nahi hota.",
+          "lesson": "Smart spending matlab zarurat ke hisaab se kharidna."
+        },
+        {
+          "id": "anita-food-budget",
+          "title": "Anita ka Food Budget",
+          "image": "https://picsum.photos/seed/anita/600/400",
+          "summary": "Anita ne bahar khana kam karke bachat ki.",
+          "content": "Anita har weekend bahar khana khati thi jisme mahine ke ₹4000 kharch hote the. Usne ghar pe cooking shuru ki aur kharch ₹1500 reh gaya. Baaki paise usne investments me daal diye.",
+          "lesson": "Lifestyle changes se bhi bachat badhayi ja sakti hai."
+        }
+      ]
+    },
+    {
+      "id": "financial-habits",
+      "title": "Financial Habits",
+      "stories": [
+        {
+          "id": "ajay-auto-debit",
+          "title": "Ajay ka Auto-Debit Trick",
+          "image": "https://picsum.photos/seed/ajay/600/400",
+          "summary": "Ajay ne auto-debit lagakar apni bachat pakki ki.",
+          "content": "Ajay ne apne salary account se ek RD auto-debit set kar diya. Har mahine ₹3000 cut hote gaye aur bina effort ke usne 3 saal me ₹1.2 lakh bacha liya. Usne samjha ki automation financial discipline laata hai.",
+          "lesson": "Apni savings ko automate karna best habit hai."
+        },
+        {
+          "id": "pallavi-cash-vs-upi",
+          "title": "Pallavi aur Cash vs UPI",
+          "image": "https://picsum.photos/seed/pallavi/600/400",
+          "summary": "Pallavi ne realise kiya ki cash spending aur digital spending alag hoti hai.",
+          "content": "Pallavi jab UPI se payment karti thi toh usko kharch ka feel hi nahi hota. Lekin jab usne cash use kiya, usko realise hua ki paisa jaldi khatam ho raha hai. Usne apne kharche par control paaya.",
+          "lesson": "Spending habit samajhna financial growth ke liye zaroori hai."
+        },
+        {
+          "id": "deepak-weekly-budget",
+          "title": "Deepak ka Weekly Budget",
+          "image": "https://picsum.photos/seed/deepak/600/400",
+          "summary": "Deepak ne weekly budget banaya aur overspending roka.",
+          "content": "Deepak har week ₹2000 cash nikalta aur wahi use karta. Jab paisa khatam hota toh next week tak wait karta. Usne apne kharche control kiye aur monthly overspending 50% kam ho gayi.",
+          "lesson": "Small budgeting hacks badi bachat karwa dete hain."
         }
       ]
     }
