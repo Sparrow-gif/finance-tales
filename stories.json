@@ -1,0 +1,40 @@
+{
+  "categories": [
+    {
+      "id": "money-basics",
+      "title": "Money Basics",
+      "stories": [
+        {
+          "id": "rahul-salary-rule",
+          "title": "Rahul ki Salary Ka Raaz",
+          "image": "https://picsum.photos/seed/rahul/400/250",
+          "summary": "Rahul ne 50-30-20 rule follow kiya aur apni salary ka raaz paaya.",
+          "content": "Rahul ek naukri karta tha jisme uski salary aate hi khatam ho jaati. Ek din uske dost ne usko 50-30-20 rule samjhaya. Matlab salary ka 50% needs, 30% wants, 20% savings. Rahul ne is rule ko follow kiya aur dheere-dheere uski bachat badhne lagi.",
+          "lesson": "Salary kam ho ya zyada, system se bachat possible hai."
+        },
+        {
+          "id": "reena-piggy-bank",
+          "title": "Reena aur Uska Gullak",
+          "image": "https://picsum.photos/seed/reena/400/250",
+          "summary": "Reena ke gullak se usne financial discipline seekha.",
+          "content": "Reena ne har din apne gullak me ₹10 daala. Ek saal ke baad uske paas ₹3650 ho gaye. Usne samjha ki chhoti chhoti bachat ek din badi hoti hai.",
+          "lesson": "Har chhoti bachat kaafi hoti hai jab woh regular ho."
+        }
+      ]
+    },
+    {
+      "id": "investing-101",
+      "title": "Investing 101",
+      "stories": [
+        {
+          "id": "amit-compounding",
+          "title": "Amit aur Magic of Compounding",
+          "image": "https://picsum.photos/seed/amit/400/250",
+          "summary": "Amit ne SIP me invest karke compounding ka jadoo dekha.",
+          "content": "Amit ne har mahine ₹2000 SIP me lagaya. 20 saal ke baad uske paise compound hoke 15 lakh se zyada ban gaye. Usne samjha ki compounding ko '8th wonder of the world' kyun kehte hain.",
+          "lesson": "Jitni jaldi investment shuru, utna zyada faayda."
+        }
+      ]
+    }
+  ]
+}
